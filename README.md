@@ -22,3 +22,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 10. バンシィ
 11. JUSTICE GUNDAM
 12. ザクII
+13. DUEL GUNDAM
