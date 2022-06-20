@@ -21,3 +21,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. 0ガンダム
 10. バンシィ
 11. JUSTICE GUNDAM
+12. ザクII
