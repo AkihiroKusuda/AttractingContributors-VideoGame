@@ -38,3 +38,4 @@ I'm looking forward to your effort.
 10. RX 6400
 11. AMD Radeon Graphics
 12. RTX 3090ti
+13. GTX 1080
