@@ -41,3 +41,4 @@ For Example:
 1. Xperia 10 III
 1. Xperia 1 III
 1. Xiaomi Redmi Note 9s
+1. HUAWEI P10 Lite
